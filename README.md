@@ -13,9 +13,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sherry186&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sherry186&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sherry186&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sherry186&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sherry186&theme=default&utcOffset=8)
-
