@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+M.S. in Computer Science, NEWSLAB, NTU
